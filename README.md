@@ -6,6 +6,5 @@
 - scipy0.19.0
 - opencv3.3.0
 ```
-run
-$ bash cl_cnn_scipe.sh
+run $ bash cl_cnn_scipe.sh
 ```
