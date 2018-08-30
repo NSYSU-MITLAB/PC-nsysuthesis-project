@@ -5,7 +5,7 @@
 - keras2.0.3
 - scipy0.19.0
 - opencv3.3.0
-run
 ```
+run
 $ bash cl_cnn_scipe.sh
 ```
