@@ -1,4 +1,5 @@
 # cnn
+範例
 ## Requirements
 - python3.4
 - tensorflow1.0.1
