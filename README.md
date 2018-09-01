@@ -13,8 +13,10 @@ run $ bash cl_cnn_scipe.sh
 ## 結果
 - MNIST
 
-| 解析度\模型 | 模型一 | 模型二 |
-| ------ | ----------- | ------ |
-| data   | path to data files to supply the data that will be passed into templates. | 123 |
-| engine | engine to be used for processing templates. Handlebars is the default. | 123 |
-| ext    | extension to be used for dest files. | 123 |
+| 解析度\模型 | 模型一 | 模型二 | 模型三 | 模型四 | 模型五 | 
+| ------ | ----------- | ------ | --- | --- | --- |
+| 28x28  | 96.56% | 98.07% | 98.81% | 99.56% | 99.68% |
+| 21x21  | 96.81% | 98.52% | 98.98% | 99.53% | 99.60% |
+| 14x14  | 96.45% | 98.57% | 99.16% | 99.52% | 99.34% |
+| 7x7    | 89.46% | 93.85% | 94.86% | 94.81% | 94.71% |
+| 5x5    | 71.26% | 75.76% | 79.71% | 77.54% | 77.90% |
